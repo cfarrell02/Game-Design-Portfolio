@@ -108,3 +108,7 @@ form#contact label{
 .ui.relaxed.divided.list .description{
     color: #C3C2BF;
 }
+
+iframe{
+    margin: 10em;
+}
