@@ -112,3 +112,7 @@ form#contact label{
 iframe{
     margin: 10em;
 }
+
+img{
+    max-height: 183px;
+}
